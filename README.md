@@ -24,6 +24,8 @@ To get started working on Contributions you will need to complete the following 
 
 ### Requirements
 
+x
+
 We require the following to be installed:
 
 - `Java 8`
